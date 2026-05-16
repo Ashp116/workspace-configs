@@ -810,6 +810,16 @@
       "settings": {
         "foreground": "#b267e6"
       }
+    },
+    {
+      "name": "Luau not/and/or keywords",
+      "scope": [
+        "keyword.operator.wordlike.luau",
+        "keyword.operator.logical.luau"
+      ],
+      "settings": {
+        "foreground": "#db7e32"
+      }
     }
   ]
 }
