@@ -1,0 +1,22 @@
+{
+  "name": "dark-dracula",
+  "displayName": "Dark Dracula",
+  "description": "IntelliJ-ish Darcula with 2026 Dark editor colors",
+  "version": "0.0.1",
+  "publisher": "Ashp116",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Dracula-color-theme.json"
+      }
+    ]
+  }
+}
